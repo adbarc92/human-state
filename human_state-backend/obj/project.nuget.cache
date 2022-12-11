@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3ygvudC2h85ZT2ydRIJSU55zChmJ3Up0o/2xN905trv7dHblcbrShYGW6tJ5P17qgCxw5fmljWpacQmtKh4qA==",
+  "success": true,
+  "projectFilePath": "D:\\ProgrammingProjects\\visual-studio\\human_state\\human_state-backend\\human_state-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brown\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\brown\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\brown\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\brown\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\brown\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\brown\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
